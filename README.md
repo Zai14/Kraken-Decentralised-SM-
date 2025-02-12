@@ -29,3 +29,6 @@ Voice and Video Calls: Integrate decentralized, secure voice and video call feat
 Multi-chain Wallet Support: Expand wallet support to include other blockchain networks like Binance Smart Chain (BSC), Polygon, and more.
 Custom Themes: Introduce customizable themes to enhance the user experience and allow users to personalize the app interface.
 Notification System: Implement push notifications for incoming messages, wallet updates, and other events in the app.
+## Try Kraken
+You can try Kraken live by clicking this link:
+[Kraken Secure Messaging App](https://resonant-unicorn-0d783d.netlify.app/)
